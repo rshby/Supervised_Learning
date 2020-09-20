@@ -8,5 +8,9 @@ Harapannya, repository ini dapat saya jadikan portofolio saya dalam bidang machi
 - Install Anaconda atau miniconda
 - Versi python yang saya gunakan 3.7 pada OS Windows 10
 - Install module tambahan seperti xgboost dan jcopml
-
+<br>
+Untuk menginstall jcopml. Ketikkan syntax di bawah ini pada anaconda promp.
 `pip install jcopml`
+<br>
+Untuk menginstall xgboost. Ketikkan syntax di bawah ini pada anaconda promp.
+`conda install -c anaconda py-xgboost`
