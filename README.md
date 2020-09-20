@@ -12,6 +12,5 @@ Harapannya, repository ini dapat saya jadikan portofolio saya dalam bidang machi
 Untuk menginstall jcopml. Ketikkan syntax di bawah ini pada anaconda promp.<br>
 `pip install jcopml`
 
-<br>
-Untuk menginstall xgboost. Ketikkan syntax di bawah ini pada anaconda promp. <br>
+Untuk menginstall xgboost. Ketikkan syntax di bawah ini pada anaconda promp.<br>
 `conda install -c anaconda py-xgboost`
