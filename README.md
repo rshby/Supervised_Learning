@@ -9,6 +9,7 @@ Harapannya, repository ini dapat saya jadikan portofolio saya dalam bidang machi
 - Versi python yang saya gunakan 3.7 pada OS Windows 10
 - Install module tambahan seperti xgboost dan jcopml
 
+Untuk menginstall jcopml. Ketikkan syntax di bawah ini pada anaconda promp.
 `pip install jcopml`
 
 <br>
