@@ -8,3 +8,5 @@ Harapannya, repository ini dapat saya jadikan portofolio saya dalam bidang machi
 - Install Anaconda atau miniconda
 - Versi python yang saya gunakan 3.7 pada OS Windows 10
 - Install module tambahan seperti xgboost dan jcopml
+
+`pip install jcopml`
