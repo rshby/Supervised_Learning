@@ -20,3 +20,5 @@ Data fields
 - id - an anonymous id unique to a product
 - feat_1, feat_2, ..., feat_93 - the various features of a product
 - target - the class of a product
+## Update:
+PCA tidak dapat digunakan dalam datasets tersebut, sklearn menyarankan untuk menggunakan TrunkedSVD, namun setelah saya coba ternyata ada error di bagian binnary column. Saya coba tanpa menggunakan decomposision tetapi waktu training menjadi sangat lama. 
