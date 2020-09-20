@@ -3,7 +3,7 @@ The Otto Group is one of the world’s biggest e-commerce companies, with subsid
 <br><br>
 A consistent analysis of the performance of our products is crucial. However, due to our diverse global infrastructure, many identical products get classified differently. Therefore, the quality of our product analysis depends heavily on the ability to accurately cluster similar products. The better the classification, the more insights we can generate about our product range.
 <br><br>
-![][Grafik.JPG]
+![][Grafik.jpg]
 2nd iteration
 <br><br>
 For this competition, we have provided a dataset with 93 features for more than 200,000 products. The objective is to build a predictive model which is able to distinguish between our main product categories. The winning models will be open sourced.
