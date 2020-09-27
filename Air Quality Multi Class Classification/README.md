@@ -1,3 +1,6 @@
+## Update 27 September 2020, pukul 09.28
+Dilakukan klasifikasi dengan menggunakan metode KNN
+
 ## Update 20 September 2020, pukul 20.55
 Kolom Date sudah di ekstraksi untuk mendapatkan kolom baru bernama year dan month. kolom tersebut adalah hasil ekstraksi dari kolom Date.
 <br>Dikarenakan dalam pengaruh angin, tahun dan bulan juga bisa mempengaruhi. Oleh karena itu, saya melakukan esktraksi fitur supaya data menjadi lebih bermakna dan diharapkan nantinya saat modeling dapat memberikan hasil akurasi yang memuaskan.
